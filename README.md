@@ -1,4 +1,4 @@
-# Projeto Loja & Produtos 
+# Projeto: Loja & Produtos 
 
 ## Curso Back-End com Python / Turma: 03
 
@@ -18,8 +18,9 @@
 
 # Projeto nº 10: Loja e Produtos
 
-## Projetos de Lógica de Programação com Python - Programação Estruturada
+## Projeto de Lógica de Programação com Python - Programação Estruturada
 
+---
 
 ### Requisitos solicitados:
 
@@ -37,4 +38,3 @@ Exemplo: Médico(nome, crm), Pacientes(nome, cpf)
 - [x] Uma loja vende vários produtos.
 - [x] Cada produto é vendido por uma única loja.
 - [x] Relação: Uma loja -> Muitos produtos
-
