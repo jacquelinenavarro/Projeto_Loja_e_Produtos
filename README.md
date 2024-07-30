@@ -19,7 +19,7 @@
 # Projeto nº 10: Loja e Produtos
 
 ## Projeto de Lógica de Programação com Python - Programação Estruturada
-
+(Utilizando arquivos .TXT)
 ---
 
 ### Requisitos solicitados:
